@@ -60,8 +60,5 @@
     "main.7bafc960.js.map": "/portfolio/static/js/main.7bafc960.js.map",
     "453.71568c2a.chunk.js.map": "/portfolio/static/js/453.71568c2a.chunk.js.map"
   },
-  "entrypoints": [
-    "static/css/main.a758fcba.css",
-    "static/js/main.7bafc960.js"
-  ]
+  "entrypoints": ["static/css/main.a758fcba.css", "static/js/main.7bafc960.js"]
 }
