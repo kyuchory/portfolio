@@ -68,8 +68,5 @@
     "main.6659237e.js.map": "/portfolio/static/js/main.6659237e.js.map",
     "453.71568c2a.chunk.js.map": "/portfolio/static/js/453.71568c2a.chunk.js.map"
   },
-  "entrypoints": [
-    "static/css/main.f2e9aef4.css",
-    "static/js/main.6659237e.js"
-  ]
+  "entrypoints": ["static/css/main.f2e9aef4.css", "static/js/main.6659237e.js"]
 }
