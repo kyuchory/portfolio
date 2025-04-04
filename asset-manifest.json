@@ -1,7 +1,12 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.css": "/portfolio/static/css/main.779f87ff.css",
     "main.js": "/portfolio/static/js/main.19e6608a.js",
+=======
+    "main.css": "/portfolio/static/css/main.a5eb79a5.css",
+    "main.js": "/portfolio/static/js/main.2f93f829.js",
+>>>>>>> 4af9d9bade5a9c192af09ddcdea2619fae831f86
     "static/js/453.71568c2a.chunk.js": "/portfolio/static/js/453.71568c2a.chunk.js",
     "static/media/travelMain.png": "/portfolio/static/media/travelMain.ca3147e9427c072bd84b.png",
     "static/media/lifeup2.gif": "/portfolio/static/media/lifeup2.5ef4617b318677f61684.gif",
